@@ -78,7 +78,7 @@ DATABASES = {
         "NAME": "railway",
         "USER": "postgres",
         "PASSWORD": "AyAKtNiktMdoXiNsSbjKGJuGSteuvPwz",
-        "HOST": "postgres.railway.internal",
+        "HOST": "localhost",
         "PORT": "5432",
     }
 }
